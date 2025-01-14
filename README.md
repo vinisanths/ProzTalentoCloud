@@ -81,5 +81,3 @@ Em caso de dúvidas ou sugestões, entre em contato pelo email:
 📧 **vinipsantos0@gmail.com**
 
 ---
-
-Esperamos que você aproveite ao máximo o programa Proz Talento Cloud e este repositório! Vamos juntos construir um futuro na nuvem! 🌥✨
