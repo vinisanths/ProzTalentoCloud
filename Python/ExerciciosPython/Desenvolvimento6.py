@@ -8,7 +8,7 @@ nome = str(input("Digite seu nome completo: "))
 while(anoCerto == False):
     try:
         ano_nascimento = int(input("Digite o ano de nascimento: "))
-        if(ano_nascimento >= 1922 and ano_nascimento <= 2021):
+        if(ano_nascimento >= 1922 and ano_nascimento <= 2025):
             idade = anoAtual - ano_nascimento
             print(f"Olá {nome}, você tem {idade} anos")
             anoCerto = True
